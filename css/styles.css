@@ -311,7 +311,8 @@ address {
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  row-gap: 24px;
+  column-gap: 24px;
+  row-gap: 48px;
 }
 
 .portfolio-list-item {
